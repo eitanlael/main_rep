@@ -1,6 +1,5 @@
 --run all script from system user
 --iiהוספת שדה לטבלת מט"שים
---run from ETL_MGR
 
 --run this in STG_DATA
 ALTER TABLE STG_DATA.DIM_SEW_TREAT_DEVICES
