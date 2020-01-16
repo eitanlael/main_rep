@@ -4,5 +4,8 @@
     CREATE INDEX nzh_data.con_alloc_transaction_nu3 ON nzh_data.con_alloc_transaction(first_part_cons_no) TABLESPACE indx;   
     CREATE INDEX con_alloc_transaction_nu4 ON con_alloc_transaction(SCND_FIRST_PART_CONS_NO) TABLESPACE indx; --new index creation
    CREATE INDEX nzh_data.con_alloc_transaction_nu5 ON nzh_data.con_alloc_transaction(YEAR) TABLESPACE indx;
+   
+   
+   create index nzh_data.eitan_lael on nzh_data.con_alloc_transaction(xxx) tablespace indx;
 
 	
