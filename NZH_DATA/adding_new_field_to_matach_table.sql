@@ -1,5 +1,6 @@
 --run all script from system user
 --iiהוספת שדה לטבלת מט"שים
+--fir test of git
 
 --run this in STG_DATA
 ALTER TABLE STG_DATA.DIM_SEW_TREAT_DEVICES
