@@ -12,5 +12,7 @@
    create index nzh_data.eitan_lael on nzh_data.con_alloc_transaction(xxx) tablespace indx;
    I whant to chamge this file for git
 
+   
+   --thsi changes are real for git
 
 	
